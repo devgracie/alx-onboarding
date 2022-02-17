@@ -1,0 +1,8 @@
+While K<N
+     For i=0 to N-1
+        if a(i)>a(i+1)
+        Then 
+            swap()
+         end
+         k=k+1
+     end
